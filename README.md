@@ -34,7 +34,7 @@ The project is built with modularity in mind:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/eranmal/brick-breaker.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git)
+   git clone https://github.com/eranmal/brick-breaker.git
 2. **Navigate to the source folder:**
    ```bash
    cd src
@@ -49,7 +49,7 @@ The project is built with modularity in mind:
 
 **Eran** *Second-year Computer Science Student at Bar-Ilan University*
 
-I specialize in **Java, Python, and C** development. I bring a strong background in leadership and teamwork from my service as a **commander in the army**. Currently, I am focused on mastering algorithms and building high-quality software projects.
+I specialize in **Java, Python, and C** development. I bring a strong background in leadership and teamwork. Currently, I am focused on mastering algorithms and building high-quality software projects.
 
 ---
 
