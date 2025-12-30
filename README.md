@@ -55,5 +55,5 @@ I specialize in **Java, Python, and C** development. I bring a strong background
 ---
 
 ### 🌐 Connect with me:
-* **GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://github.com/eranmal)
+* **GitHub:** [github.com/eranmal](https://github.com/eranmal)
 * **LinkedIn:** [Connect with me on LinkedIn](https://il.linkedin.com/in/eran-malachi-6797a5393)
