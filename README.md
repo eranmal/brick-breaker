@@ -7,7 +7,7 @@ A classic, fully functional Brick Breaker game developed in Java. This project e
 ## 📺 Demo
 Check out the game in action:
 
-![Game Gameplay](brick-breaker-demo)
+<video src="brick-breaker-demo.mp4" width="100%" autoplay loop muted></video>
 
 ---
 
