@@ -15,7 +15,7 @@ public class MainGame {
      */
     public static void main(String[] args) {
         Game game = new Game();
-        game.setGui(new GUI("ass5", 800, 600));
+        game.setGui(new GUI("Arcanoid", 800, 600));
         game.initialize();
         game.run();
     }
