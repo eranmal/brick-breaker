@@ -36,9 +36,9 @@ The project is built with modularity in mind:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/eranmal/brick-breaker.git
-2. **Navigate to the source folder:**
+2. **Navigate to the project folder:**
    ```bash
-   cd src
+   cd brick-breaker
 3. **Compile all files:**
     ```bash
     javac *.java
