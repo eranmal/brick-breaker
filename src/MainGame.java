@@ -5,7 +5,7 @@ import game.Game;
  * The {@code Ass3Game} class serves as the entry point for the game application.
  * It initializes the game window, sets up the game, and starts the game loop.
  */
-public class Ass5Game {
+public class MainGame {
 
     /**
      * The main method is the entry point of the program.
