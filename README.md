@@ -41,10 +41,10 @@ The project is built with modularity in mind:
    cd brick-breaker
 3. **Compile all files:**
     ```bash
-    javac -cp "biuoop-1.4.jar" -sourcepath src src/main.java
+    javac -cp "biuoop-1.4.jar" -sourcepath src src/MainGame.java
 4. Run the main class:
     ```bash
-    java -cp "biuoop-1.4.jar;src" main
+    java -cp "biuoop-1.4.jar;src" MainGame
 
 
 ## 👨‍💻 About Me
